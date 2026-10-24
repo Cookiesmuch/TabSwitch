@@ -64,4 +64,6 @@ dotnet build src\TabSwitch -c Release -p:Platform=x64   # unpackaged dev build (
 
 ## Licensing
 
+TabSwitch is licensed under the [GNU GPL v3.0](LICENSE).
+
 TabSwitch does not include OpenTabletDriver or any XP-PEN software. OpenTabletDriver (LGPL-3.0) is downloaded from its official GitHub releases on first run. XP-PEN's driver must be installed separately.
