@@ -1,0 +1,10 @@
+bin/
+obj/
+dist/
+AppPackages/
+.vs/
+*.user
+*.pfx
+
+# Local OpenTabletDriver copies are never committed (TabSwitch downloads OTD on first run)
+OpenTabletDriver*/
